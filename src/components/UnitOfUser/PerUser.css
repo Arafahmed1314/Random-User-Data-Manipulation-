@@ -4,10 +4,20 @@
     padding: 10px;
 display: flex;
 align-items: center;
-justify-content: space-around;
+justify-content: space-between;
 gap: 20px;
 width: 80%;
 margin: 10px auto;
+}
+.peruser-right-container{
+
+width: 50%;
+
+
+}
+.peruser-left-container{
+
+width: 30%;
 }
 .peruser .peruser-right-container button {
 padding: 7px 15px;
