@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+    flex-direction: column;
+margin: 0 auto;
+width: 95%;
+}
+.container h1{
+    text-align: center;
+}
+.inner-container{
+display: flex;
+justify-content: space-between;
+}
+.left-container {
+width: 70%;
+}
+.right-container{
+    width: 30%;
+    text-align: center;
+    margin: 0 auto;
+}
+.right-container h1{
+width: 100%;
+border-bottom: 1px solid black;
+text-align: center;
+
+}
